@@ -3,8 +3,8 @@ import sys
 # Usage: 'python generate.py x y', x is a set of comma separated
 # characters and y is the length of the combination
 
-default_set = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0']
-default_length = 4
+default_set = ['session', 'cigar', 'grape', 'merry', 'useful', 'churn', 'fatal', 'thought', 'very', 'any', 'arm', 'unaware', 'clock', 'fresh', 'security', 'field', 'caution', 'effort', 'gorilla', 'speed', 'plastic', 'common', 'tomato', 'echo']
+default_length = 12
 
 
 # Returns the list of possible combinations
